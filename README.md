@@ -3,6 +3,10 @@
 - youtube : https://www.youtube.com/channel/UCikEgGfXO-HCPxV5rYHEVbA
 - github : https://github.com/RexShack
 
+# Important Note:
+now not required if you have the latest qbr-smallresources as its now included
+https://github.com/qbcore-redm-framework/qbr-smallresources
+
 # Framework QBCore RedM Edition
 - https://github.com/qbcore-redm-framework
 
