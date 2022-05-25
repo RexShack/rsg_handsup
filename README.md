@@ -4,8 +4,8 @@
 - github : https://github.com/RexShack
 
 # Important Note:
-now not required if you have the latest qbr-smallresources as its now included
-https://github.com/qbcore-redm-framework/qbr-smallresources
+- now not required if you have the latest qbr-smallresources
+- https://github.com/qbcore-redm-framework/qbr-smallresources
 
 # Framework QBCore RedM Edition
 - https://github.com/qbcore-redm-framework
