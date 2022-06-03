@@ -2,6 +2,7 @@
 - discord : https://discord.gg/s5uSk56B65
 - youtube : https://www.youtube.com/channel/UCikEgGfXO-HCPxV5rYHEVbA
 - github : https://github.com/RexShack
+- support-me : https://rexshackgaming.tebex.io/package/5114907
 
 # Important Note:
 - now not required if you have the latest qbr-smallresources
